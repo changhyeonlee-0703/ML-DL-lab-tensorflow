@@ -26,5 +26,3 @@ with tf.compat.v1.Session() as sess:
         
     plt.plot(W_val, cost_val)
     plt.show()
-    
-     
